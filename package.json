@@ -1,0 +1,29 @@
+{
+  "name": "poly-node",
+  "version": "1.0.0",
+  "description": "poly programming language interpreter/compiler written in node.js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PolyLanguage/poly-node.git"
+  },
+  "keywords": [
+    "js",
+    "poly",
+    "lang",
+    "script",
+    "lexer",
+    "parser",
+    "interpreter",
+    "compiler"
+  ],
+  "author": "qrai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PolyLanguage/poly-node/issues"
+  },
+  "homepage": "https://github.com/PolyLanguage/poly-node#readme"
+}
